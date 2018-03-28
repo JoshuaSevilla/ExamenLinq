@@ -1,0 +1,11 @@
+/Users/Joshua/Projects/ExamenLinq/ExamenLinq/obj/Debug/netcoreapp2.0/ExamenLinq.csprojResolveAssemblyReference.cache
+/Users/Joshua/Projects/ExamenLinq/ExamenLinq/obj/Debug/netcoreapp2.0/ExamenLinq.csproj.CoreCompileInputs.cache
+/Users/Joshua/Projects/ExamenLinq/ExamenLinq/obj/Debug/netcoreapp2.0/ExamenLinq.AssemblyInfoInputs.cache
+/Users/Joshua/Projects/ExamenLinq/ExamenLinq/obj/Debug/netcoreapp2.0/ExamenLinq.AssemblyInfo.cs
+/Users/Joshua/Projects/ExamenLinq/ExamenLinq/bin/Debug/netcoreapp2.0/ExamenLinq.deps.json
+/Users/Joshua/Projects/ExamenLinq/ExamenLinq/bin/Debug/netcoreapp2.0/ExamenLinq.runtimeconfig.json
+/Users/Joshua/Projects/ExamenLinq/ExamenLinq/bin/Debug/netcoreapp2.0/ExamenLinq.runtimeconfig.dev.json
+/Users/Joshua/Projects/ExamenLinq/ExamenLinq/bin/Debug/netcoreapp2.0/ExamenLinq.dll
+/Users/Joshua/Projects/ExamenLinq/ExamenLinq/bin/Debug/netcoreapp2.0/ExamenLinq.pdb
+/Users/Joshua/Projects/ExamenLinq/ExamenLinq/obj/Debug/netcoreapp2.0/ExamenLinq.dll
+/Users/Joshua/Projects/ExamenLinq/ExamenLinq/obj/Debug/netcoreapp2.0/ExamenLinq.pdb
